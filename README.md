@@ -31,4 +31,4 @@ Project Management/Schedule: [Link]()
 
 
 
-$/theta$
+$\theta$
